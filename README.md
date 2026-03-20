@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=180&section=header&text=SYSTEM%20INITIALIZING&fontSize=30&fontColor=00F7FF&animation=fadeIn"/>
+</p>
 
-<!--
-**dummy-pranjal29/dummy-pranjal29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting+Aditya+Pranjal...;Loading+Core+Systems...;Injecting+Engineering+Mindset...;System+Ready."/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+> whoami
+Aditya Pranjal
+
+> github
+dummy-pranjal29
+
+> role
+Software Engineer
+
+> focus
+Systems | Backend | Problem Solving
+
+> status
+Building. Optimizing. Scaling.

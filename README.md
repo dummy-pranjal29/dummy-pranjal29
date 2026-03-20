@@ -23,3 +23,16 @@ Systems | Backend | Problem Solving
 
 > status
 Building. Optimizing. Scaling.
+🧠 CORE SIGNAL
++ Thinks in systems, not scripts
++ Designs for scale, not shortcuts
++ Writes code that survives production
+🧠 ENGINEERING LOGIC
+if (it scales) keep it
+else redesign it
+
+if (it breaks) understand it
+else stress test it
+🌐 INTERFACE
+<p align="center"> <a href="https://www.linkedin.com/in/aditya-pranjal29/">LinkedIn</a> | <a href="https://pranjalportfolio-ivory.vercel.app/">Portfolio</a> | <a href="mailto:adityapranjal29112001@gmail.com">Email</a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=120&section=footer"/> </p> ```

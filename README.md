@@ -1,18 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0f,50:1a1200,100:0a0a0f&amp;height=120&amp;section=header&amp;text=GOTHAM%20SYSTEMS%20ONLINE&amp;fontSize=22&amp;fontColor=C8A020&amp;fontAlignY=55&amp;animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0a0800,20:1c1000,50:0a0800,80:1c1000,100:0a0800&amp;height=3&amp;section=header"/>
 
 </div>
 
 <div align="center">
 
-# 🦇 ADITYA PRANJAL
+```
+██████╗  ██████╗ ████████╗██╗  ██╗ █████╗ ███╗   ███╗
+██╔════╝ ██╔═══██╗╚══██╔══╝██║  ██║██╔══██╗████╗ ████║
+██║  ███╗██║   ██║   ██║   ███████║███████║██╔████╔██║
+██║   ██║██║   ██║   ██║   ██╔══██║██╔══██║██║╚██╔╝██║
+╚██████╔╝╚██████╔╝   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║
+ ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+          ◆  S Y S T E M S  O N L I N E  ◆
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&amp;weight=700&amp;size=16&amp;duration=2800&amp;pause=900&amp;color=C8A020&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Backend+Sentinel.+Dark+Systems+Engineer.;Gotham+doesn't+need+a+hero.+It+needs+infrastructure.;if+(it.breaks())+understand(it)%3B;Building+systems+that+survive+the+night."/>
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&amp;weight=700&amp;size=38&amp;duration=1&amp;pause=99999&amp;color=C8A020&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=70&amp;lines=ADITYA+PRANJAL"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&amp;size=13&amp;duration=2800&amp;pause=900&amp;color=6a5020&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Backend+Sentinel.+Dark+Systems+Engineer.;Gotham+doesn't+need+a+hero.+It+needs+infrastructure.;if+(it.breaks())+understand(it)%3B;Building+systems+that+survive+the+night."/>
+
+</div>
 
 <br/>
 
-[![🦇 ENTER THE BAT-SIGNAL — Full Profile](https://img.shields.io/badge/%F0%9F%A6%87%20ENTER%20THE%20BAT--SIGNAL%20%E2%80%94%20Full%20Interactive%20Profile-C8A020?style=for-the-badge&amp;labelColor=0d0a00&amp;color=0d0a00&amp;logoColor=C8A020)](https://profile-page-beta-ten.vercel.app/)
+<div align="center">
+
+[![🦇 ENTER THE BAT-SIGNAL — Full Interactive Profile](https://img.shields.io/badge/%F0%9F%A6%87%20%E2%97%88%20ENTER%20THE%20BAT--SIGNAL%20%E2%80%94%20Full%20Interactive%20Profile%20%E2%97%88-C8A020?style=for-the-badge&amp;labelColor=0d0a00&amp;color=0d0a00)](https://profile-page-beta-ten.vercel.app/)
 
 </div>
 
@@ -20,43 +38,11 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="160" title="The Dark Knight approves your pull request"/>
 
 </div>
 
----
-
-### `🦇 // SYSTEM PROFILE`
-
-```yaml
-uid        : ADITYA-PRANJAL-29
-handle     : dummy-pranjal29
-role       : Backend Sentinel
-city       : Gotham
-focus      : Backend Engineering · Systems Design · Distributed Systems
-protocol   : Night Protocol v2.0
-signal     :
-  + Thinks in systems, not scripts
-  + Designs for scale, not shortcuts
-  + Writes code that survives production
-status     : ● ACTIVE — Building. Optimizing. Scaling.
-```
-
----
-
-### `⚙️ // ENGINEERING AXIOMS`
-
-```js
-// gotham@dark-systems ~ /night-protocol/axioms.js
-
-if (it.scales())    keep(it);        // non-negotiable
-else                redesign(it);
-
-if (it.breaks())    understand(it);  // go deep
-else                stress_test(it);
-
-// The night is darkest just before the system scales.
-```
+<div align="center"><sub>🦇 <i>even Batman reviews code before merging to main</i></sub></div>
 
 ---
 
@@ -70,66 +56,66 @@ else                stress_test(it);
 
 ---
 
-### `🦇 // PROJECT SHOWCASE — GOTHAM CASE FILES`
+### `🦇 // GOTHAM CASE FILES`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**◈ CASE FILE 001 — DARK RELAY**
+**◈ CASE FILE 001 — SES INTELLIGENCE**
 
-> *A high-throughput message routing engine built for scale.*
+> *Software that watches itself. Runtime intelligence at scale.*
 
-- Handles 100k+ events/sec with zero message loss
-- Custom retry logic with exponential backoff
-- Built for distributed, fault-tolerant environments
+- Monitors live function call graphs, computes health scores and forecasts degradation before it strikes
+- Auto-builds architecture graphs from traces with LLM-powered narrative generation
+- Published to PyPI · Django REST API · React dashboard · Full CI/CD
 
-`Go` · `Kafka` · `Redis` · `Docker`
+`Python` · `Django` · `React` · `LLM` · `Docker`
 
-[→ View Case File](#)
+[→ Repo](https://github.com/dummy-pranjal29/self-explaining-software) &nbsp;|&nbsp; [→ Live](https://self-explaining-software.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
 
-**◈ CASE FILE 002 — NIGHT VAULT**
+**◈ CASE FILE 002 — SCRIPTS.AI**
 
-> *Secure, distributed secrets management system.*
+> *Full in-browser AI dev environment. Write. Debug. Ship.*
 
-- End-to-end encrypted config delivery
-- Role-based access with audit trails
-- Sub-10ms p99 latency under load
+- WebContainers-powered playground with Monaco editor, live preview and terminal — all in the browser
+- Groq-powered AI code assistance, role-based auth, multi-language support
+- Next.js App Router · MongoDB + Prisma · Deployed on Vercel
 
-`Node.js` · `PostgreSQL` · `Kubernetes` · `AWS`
+`TypeScript` · `Next.js` · `MongoDB` · `Prisma` · `WebContainers`
 
-[→ View Case File](#)
+[→ Repo](https://github.com/dummy-pranjal29/scripts.ai) &nbsp;|&nbsp; [→ Live](https://scripts-ai-aps.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**◈ CASE FILE 003 — SENTINEL API**
+**◈ CASE FILE 003 — AICODES**
 
-> *API gateway with intelligent rate limiting and observability.*
+> *Paste code. Gemini reviews it. Ship clean.*
 
-- Dynamic rate limiting per consumer fingerprint
-- Full request tracing with structured logging
-- Zero-downtime deployments via rolling update
+- Instant AI-powered code review via Google Gemini 2.0 Flash rendered with Markdown + syntax highlighting
+- Serverless Vercel functions backend — zero server ops, infinite scale
+- React frontend · Node.js · Secure API key handling
 
-`Go` · `Redis` · `Docker` · `Prometheus`
+`JavaScript` · `React` · `Node.js` · `Gemini 2.0` · `Vercel`
 
-[→ View Case File](#)
+[→ Repo](https://github.com/dummy-pranjal29/AiCodes) &nbsp;|&nbsp; [→ Live](https://ai-codes-main-7s8l.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 **◈ SIGNAL DETECTED**
 
-> *Something stirs in the dark...*
+> *Something stirs in Gotham's servers...*
 
 - The next system is under construction
-- Gotham's infrastructure never sleeps
-- Signal incoming — stand by
+- Infrastructure never sleeps in this city
+- Signal incoming — stand by, sentinel
 
 `???` · `???` · `???`
 
@@ -141,25 +127,18 @@ else                stress_test(it);
 
 ---
 
-### `🖥️ // TERMINAL — NIGHT PROTOCOL BOOT`
+### `🖥️ // NIGHT PROTOCOL BOOT`
 
 ```bash
 $ ssh aditya@gotham-systems --protocol night
 
-███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗
-██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝
-███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗
-╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║
-███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║
-╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝
+[■■■■■■■■■■■■■■■■■■■■] 100% SYSTEMS LOADED
 
-[■■■■■■■■■■■■■■■■■■■■] 100% — SYSTEMS LOADED
-
-✔ Backend Core ............ ONLINE
-✔ Distributed Layer ........ ONLINE
-✔ Night Protocol ........... ACTIVE
-✔ Signal Strength .......... MAXIMUM
-✔ Gotham Infrastructure ..... SECURED
+✔ Backend Core ............. ONLINE
+✔ Distributed Layer ......... ONLINE
+✔ Night Protocol ............ ACTIVE
+✔ Signal Strength ........... MAXIMUM
+✔ Gotham Infrastructure ...... SECURED
 
 > Sentinel is watching. Systems are running.
 > The city never sleeps. Neither does the backend.
@@ -171,21 +150,21 @@ $ ssh aditya@gotham-systems --protocol night
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=dummy-pranjal29&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=C8A020&amp;icon_color=C8A020&amp;text_color=6a5428&amp;bg_color=0a0a0f&amp;ring_color=C8A020&amp;include_all_commits=true&amp;count_private=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=dummy-pranjal29&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=C8A020&amp;icon_color=C8A020&amp;text_color=6a5428&amp;bg_color=0a0800&amp;ring_color=C8A020&amp;include_all_commits=true&amp;count_private=true"/>
 &nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummy-pranjal29&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=C8A020&amp;text_color=6a5428&amp;bg_color=0a0a0f"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummy-pranjal29&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=C8A020&amp;text_color=6a5428&amp;bg_color=0a0800"/>
 
 </div>
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=dummy-pranjal29&amp;theme=transparent&amp;hide_border=true&amp;ring=C8A020&amp;fire=C8A020&amp;currStreakLabel=C8A020&amp;sideLabels=6a5428&amp;dates=6a5428&amp;currStreakNum=f0c040&amp;sideNums=c8b060&amp;background=0a0a0f"/>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=dummy-pranjal29&amp;theme=transparent&amp;hide_border=true&amp;ring=C8A020&amp;fire=C8A020&amp;currStreakLabel=C8A020&amp;sideLabels=6a5428&amp;dates=6a5428&amp;currStreakNum=f0c040&amp;sideNums=c8b060&amp;background=0a0800"/>
 
 </div>
 
 ---
 
-### `🐍 // COMMIT TRAIL — GOTHAM NEVER SLEEPS`
+### `🐍 // COMMIT TRAIL`
 
 <div align="center">
 
@@ -220,16 +199,14 @@ $ ssh aditya@gotham-systems --protocol night
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-<sub><a href="https://profile-page-beta-ten.vercel.app/">🦇 Signal detected. Are you watching closely?</a></sub>
-
+<sub><a href="https://profile-page-beta-ten.vercel.app/">🦇 &nbsp; Signal detected. Are you watching closely? &nbsp; 🦇</a></sub>
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0f,50:1a1200,100:0a0a0f&amp;height=80&amp;section=footer&amp;reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0800,50:1c1000,100:0a0800&amp;height=80&amp;section=footer&amp;reversal=true"/>
 
 </div>

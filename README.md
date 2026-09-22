@@ -11,7 +11,7 @@
 
 <img width="90%" src="assets/summit-mark.svg" alt="Aditya Pranjal, above the noise"/>
 
-<sub>B A C K E N D &nbsp;&middot;&nbsp; D I S T R I B U T E D &nbsp; S Y S T E M S &nbsp;&middot;&nbsp; B E N G A L U R U</sub>
+<img width="66%" src="assets/signboard.svg" alt="AI Backend Systems Engineer, Vrio Digital, Bengaluru, India"/>
 
 <br/><br/>
 

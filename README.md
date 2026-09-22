@@ -11,7 +11,7 @@
 
 <img width="90%" src="assets/summit-mark.svg" alt="Aditya Pranjal, above the noise"/>
 
-<img width="66%" src="assets/signboard.svg" alt="AI Backend Systems Engineer, Vrio Digital, Bengaluru, India"/>
+<img width="78%" src="assets/trailhead.svg" alt="AI Backend Systems Engineer at Vrio Digital, Bengaluru, India"/>
 
 <br/><br/>
 
@@ -22,16 +22,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0E1216,25:37414A,50:C4A986,75:37414A,100:0E1216&height=2&section=header"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-<i>I build backend systems and the tooling around them.<br/>
-The part I actually like happens away from the noise. A problem held long<br/>
-enough to be understood, then a system that runs quietly afterwards.</i>
-</div>
-
-<br/>
 
 ---
 

@@ -9,9 +9,9 @@
 <br/>
 <br/><br/>
 
-<img width="90%" src="assets/summit-mark.svg" alt="Aditya Pranjal, above the noise"/>
+<img width="90%" src="assets/crest.svg" alt="Aditya Pranjal, above the noise"/>
 
-<img width="78%" src="assets/trailhead.svg" alt="AI Backend Systems Engineer at Vrio Digital, Bengaluru, India"/>
+<img width="78%" src="assets/signpost.svg" alt="AI Backend Systems Engineer at Vrio Digital, Bengaluru, India"/>
 
 <br/><br/>
 

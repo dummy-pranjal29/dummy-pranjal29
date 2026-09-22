@@ -4,12 +4,12 @@
 
 <br/>
 
-<img width="88%" src="assets/portrait.svg" alt="ASCII self-portrait, somewhere above the treeline"/>
+<img width="88%" src="assets/ascii-summit.svg" alt="ASCII self-portrait, somewhere above the treeline"/>
 
 <br/>
 <br/><br/>
 
-<img width="90%" src="assets/name-ridge.svg" alt="Aditya Pranjal, above the noise"/>
+<img width="90%" src="assets/masthead.svg" alt="Aditya Pranjal, above the noise"/>
 
 <sub>B A C K E N D &nbsp;&middot;&nbsp; D I S T R I B U T E D &nbsp; S Y S T E M S &nbsp;&middot;&nbsp; B E N G A L U R U</sub>
 

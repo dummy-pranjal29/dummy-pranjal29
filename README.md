@@ -28,7 +28,7 @@
 
 <div align="center">
 <i>I build backend systems and the tooling around them.<br/>
-The part I actually like happens away from the noise — a problem held long<br/>
+The part I actually like happens away from the noise. A problem held long<br/>
 enough to be understood, then a system that runs quietly afterwards.</i>
 </div>
 
@@ -36,7 +36,7 @@ enough to be understood, then a system that runs quietly afterwards.</i>
 
 ---
 
-### 01 &nbsp;—&nbsp; SELECTED WORK
+### 01  SELECTED WORK
 
 <table>
 <tr>
@@ -93,7 +93,7 @@ Reads the verdict after submission and points at where it went wrong.
 Paste code, get a review. Markdown output with syntax highlighting,
 served by Gemini 2.0 Flash.
 
-Serverless functions on Vercel — no servers to keep alive.
+Serverless functions on Vercel. No servers to keep alive.
 
 <sub>[repository](https://github.com/dummy-pranjal29/AiCodes) &nbsp;·&nbsp; [live](https://ai-codes-main-7s8l.vercel.app/)</sub>
 
@@ -105,7 +105,7 @@ Serverless functions on Vercel — no servers to keep alive.
 
 ---
 
-### 02 &nbsp;—&nbsp; TOOLKIT
+### 02  TOOLKIT
 
 <div align="center">
 <br/>
@@ -128,7 +128,7 @@ for range time.Tick(day) {
 
 ---
 
-### 03 &nbsp;—&nbsp; ACTIVITY
+### 03  ACTIVITY
 
 <div align="center">
 
@@ -150,7 +150,7 @@ for range time.Tick(day) {
 
 ---
 
-### 04 &nbsp;—&nbsp; ELSEWHERE
+### 04  ELSEWHERE
 
 <div align="center">
 <br/>

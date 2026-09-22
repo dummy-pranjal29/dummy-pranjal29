@@ -4,10 +4,10 @@
 
 <br/>
 
-<img width="88%" src="assets/ascii-portrait.png" alt="ASCII self-portrait, somewhere above the treeline"/>
+<img width="88%" src="assets/portrait.svg" alt="ASCII self-portrait, somewhere above the treeline"/>
 
 <br/>
-<sub><i>above the noise</i></sub>
+<img width="300" src="assets/above-the-noise.svg" alt="above the noise"/>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=44&duration=1&pause=99999&color=C9B393&center=true&vCenter=true&width=700&height=72&lines=Aditya+Pranjal"/>

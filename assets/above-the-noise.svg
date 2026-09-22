@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="116" viewBox="0 0 420 116">
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <polyline points="86,64 148,24 174,40 210,15 248,38 292,64" stroke="#6E7F8D" stroke-width="1" opacity="0.38"/>
+    <polyline points="108,64 158,35 180,47 211,28 243,47 282,64" stroke="#6E7F8D" stroke-width="1" opacity="0.62"/>
+    <polyline points="130,64 172,45 189,53 211,39 237,53 268,64" stroke="#C4A986" stroke-width="1.15"/>
+  </g>
+  <text x="214.8" y="99" text-anchor="middle"
+        font-family="ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace"
+        font-size="12" letter-spacing="9.5" fill="#95A2AC">ABOVE THE NOISE</text>
+</svg>

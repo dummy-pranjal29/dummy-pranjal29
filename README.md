@@ -31,10 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/dummy-pranjal29/self-explaining-software"><img width="23%" src="assets/stone-01.svg" alt="SES Intelligence"/></a>
-<a href="https://github.com/dummy-pranjal29/scripts.ai"><img width="23%" src="assets/stone-02.svg" alt="scripts.ai"/></a>
-<a href="https://github.com/dummy-pranjal29/CP-Sensei"><img width="23%" src="assets/stone-03.svg" alt="CP Sensei"/></a>
-<a href="https://github.com/dummy-pranjal29/fire-smoke-detection"><img width="23%" src="assets/stone-04.svg" alt="Fire and Smoke"/></a>
+<a href="https://github.com/dummy-pranjal29/self-explaining-software"><img width="24.5%" src="assets/marker-01.svg" alt="SES Intelligence"/></a><a href="https://github.com/dummy-pranjal29/scripts.ai"><img width="24.5%" src="assets/marker-02.svg" alt="scripts.ai"/></a><a href="https://github.com/dummy-pranjal29/CP-Sensei"><img width="24.5%" src="assets/marker-03.svg" alt="CP Sensei"/></a><a href="https://github.com/dummy-pranjal29/fire-smoke-detection"><img width="24.5%" src="assets/marker-04.svg" alt="Fire and Smoke"/></a>
 
 </div>
 
@@ -42,7 +39,7 @@
 
 <div align="center">
 
-<img width="100%" src="assets/camp.svg" alt="A crate stencilled ARSENAL bedded in the snow, weapons standing in it tagged Python, FastAPI, PostgreSQL, Neo4j, Docker and LangChain, an AWS shield and a Redis dagger beside it, and a bonfire burning on the snow"/>
+<img width="100%" src="assets/outpost.svg" alt="A crate stencilled ARSENAL and TAKEN IN THE FIELD, bedded in the snow with weapons standing in it tagged Python, FastAPI, PostgreSQL, Neo4j, Docker and LangChain, an AWS shield and a Redis dagger beside it, a row of captured standards planted in front reading Node, React, Next, Mongo, Linux, OpenCV and YOLOv8, and a bonfire burning on the snow"/>
 
 </div>
 

@@ -49,17 +49,15 @@
 
 <div align="center">
 
-<img width="100%" src="assets/ridgeline.svg" alt="A snowy ridgeline drawn from the last year of commits, 439 contributions across 53 weeks, a flag on the busiest week at 53"/>
+<img width="100%" src="assets/trail.svg" alt="A trail of bootprints crossing the snow, one print a month over the last year, deeper and larger where the work was, 439 contributions with the busiest month at 103"/>
 
 </div>
 
 ---
 
-### ELSEWHERE
-
 <div align="center">
 
-<img width="44%" src="assets/fingerpost.svg" alt="A wooden fingerpost turning slowly in the snow, its arms reading LinkedIn, Portfolio, X, Instagram and Email"/>
+<img width="100%" src="assets/crossroads.svg" alt="A signpost turning slowly in the snow under a board reading ELSEWHERE, with LinkedIn, Portfolio, X, Instagram and Email staked at the points of a pentagon around it"/>
 
 <sub>[LinkedIn](https://www.linkedin.com/in/aditya-pranjal29/) &nbsp;·&nbsp; [Portfolio](https://pranjalportfolio-ivory.vercel.app/) &nbsp;·&nbsp; [X](https://x.com/notreallyaps_45) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/_pranjal.aditya_) &nbsp;·&nbsp; [Email](mailto:adityapranjal29112001@gmail.com)</sub>
 

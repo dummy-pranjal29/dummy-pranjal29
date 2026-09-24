@@ -46,19 +46,6 @@
 
 </div>
 
-```go
-// somewhere above the treeline, 6:40 AM
-
-for range time.Tick(day) {
-        if it.Breaks() {
-                understand(it)        // not patch it
-        }
-        ship(quietly)
-}
-```
-
-<br/>
-
 ---
 
 ### ACTIVITY

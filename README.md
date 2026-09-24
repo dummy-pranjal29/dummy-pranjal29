@@ -31,6 +31,10 @@
 
 <img width="100%" src="assets/grill.svg" alt="A cook at a barbecue outside his hut in the snow, the smoke rising into four clouds, one for each project"/>
 
+<br/>
+
+<sub>[SES Intelligence](https://github.com/dummy-pranjal29/self-explaining-software) &nbsp;·&nbsp; [scripts.ai](https://github.com/dummy-pranjal29/scripts.ai) &nbsp;·&nbsp; [CP Sensei](https://github.com/dummy-pranjal29/CP-Sensei) &nbsp;·&nbsp; [Fire and Smoke](https://github.com/dummy-pranjal29/fire-smoke-detection)</sub>
+
 </div>
 
 ---

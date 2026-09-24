@@ -59,6 +59,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aditya-pranjal29/"><img width="19.6%" src="assets/way-01.svg" alt="LinkedIn"/></a><a href="https://pranjalportfolio-ivory.vercel.app/"><img width="19.6%" src="assets/way-02.svg" alt="Portfolio"/></a><a href="https://x.com/notreallyaps_45"><img width="19.6%" src="assets/way-03.svg" alt="X"/></a><a href="https://www.instagram.com/_pranjal.aditya_"><img width="19.6%" src="assets/way-04.svg" alt="Instagram"/></a><a href="mailto:adityapranjal29112001@gmail.com"><img width="19.6%" src="assets/way-05.svg" alt="Email"/></a>
+<img width="44%" src="assets/fingerpost.svg" alt="A wooden fingerpost turning slowly in the snow, its arms reading LinkedIn, Portfolio, X, Instagram and Email"/>
+
+<sub>[LinkedIn](https://www.linkedin.com/in/aditya-pranjal29/) &nbsp;·&nbsp; [Portfolio](https://pranjalportfolio-ivory.vercel.app/) &nbsp;·&nbsp; [X](https://x.com/notreallyaps_45) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/_pranjal.aditya_) &nbsp;·&nbsp; [Email](mailto:adityapranjal29112001@gmail.com)</sub>
 
 </div>

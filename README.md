@@ -27,68 +27,29 @@
 
 ### 01  SELECTED WORK
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**SES INTELLIGENCE**
+<img width="100%" src="assets/barbecue.svg" alt="A cook at a barbecue outside his hut in the snow, the smoke rising into four clouds, one for each project"/>
 
-<sub>RUNTIME INTELLIGENCE &nbsp;·&nbsp; PYTHON, DJANGO, REACT</sub>
+</div>
 
-Software that watches itself. Builds architecture graphs from live function
-calls, scores health, and flags degradation before it surfaces.
+<br/>
 
-Published to PyPI. Django REST API, React dashboard, full CI/CD.
+**01 &nbsp; SES Intelligence**<br/>
+Instruments the call graph at runtime, scores it, and names the edge that regressed.<br/>
+<sub>[repository](https://github.com/dummy-pranjal29/self-explaining-software) &nbsp;·&nbsp; [live](https://self-explaining-software.onrender.com/) &nbsp;·&nbsp; Python, Django, React</sub>
 
-<sub>[repository](https://github.com/dummy-pranjal29/self-explaining-software) &nbsp;·&nbsp; [live](https://self-explaining-software.onrender.com/)</sub>
+**02 &nbsp; scripts.ai**<br/>
+Node compiled to WebAssembly, filesystem and process table included. The editor ships no backend.<br/>
+<sub>[repository](https://github.com/dummy-pranjal29/scripts.ai) &nbsp;·&nbsp; [live](https://scripts-ai-aps.vercel.app/) &nbsp;·&nbsp; TypeScript, Next.js, WebContainers</sub>
 
-</td>
-<td width="50%" valign="top">
+**03 &nbsp; CP Sensei**<br/>
+Releases one layer of the solution at a time, so the search space stays yours.<br/>
+<sub>[repository](https://github.com/dummy-pranjal29/CP-Sensei) &nbsp;·&nbsp; Chrome MV3, Shadow DOM</sub>
 
-**SCRIPTS.AI**
-
-<sub>BROWSER DEV ENVIRONMENT &nbsp;·&nbsp; TYPESCRIPT, NEXT.JS, PRISMA</sub>
-
-A full development environment that never leaves the tab. Monaco editor,
-live preview and a real terminal, all on WebContainers.
-
-Groq-backed assistance, role-based auth, multi-language.
-
-<sub>[repository](https://github.com/dummy-pranjal29/scripts.ai) &nbsp;·&nbsp; [live](https://scripts-ai-aps.vercel.app/)</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**CP SENSEI**
-
-<sub>BROWSER EXTENSION &nbsp;·&nbsp; CHROME MV3, SHADOW DOM</sub>
-
-Hints without leaving the problem. Starts with the topic, goes one layer
-deeper each time you ask, stops where you want it to.
-
-Reads the verdict after submission and points at where it went wrong.
-
-<sub>[repository](https://github.com/dummy-pranjal29/CP-Sensei)</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**AICODES**
-
-<sub>CODE REVIEW &nbsp;·&nbsp; REACT, NODE.JS, GEMINI</sub>
-
-Paste code, get a review. Markdown output with syntax highlighting,
-served by Gemini 2.0 Flash.
-
-Serverless functions on Vercel. No servers to keep alive.
-
-<sub>[repository](https://github.com/dummy-pranjal29/AiCodes) &nbsp;·&nbsp; [live](https://ai-codes-main-7s8l.vercel.app/)</sub>
-
-</td>
-</tr>
-</table>
+**04 &nbsp; AiCodes**<br/>
+Gemini reads the paste and answers in Markdown. Serverless, so nothing idles between reviews.<br/>
+<sub>[repository](https://github.com/dummy-pranjal29/AiCodes) &nbsp;·&nbsp; [live](https://ai-codes-main-7s8l.vercel.app/) &nbsp;·&nbsp; React, Node, Gemini</sub>
 
 <br/>
 

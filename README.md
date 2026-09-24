@@ -49,41 +49,16 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=dummy-pranjal29&show_icons=true&theme=transparent&hide_border=true&title_color=C9B393&icon_color=8FA0AE&text_color=8FA0AE&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummy-pranjal29&layout=compact&theme=transparent&hide_border=true&title_color=C9B393&text_color=8FA0AE"/>
-
-<br/><br/>
-
-<img width="56%" src="https://github-readme-streak-stats.herokuapp.com?user=dummy-pranjal29&theme=transparent&hide_border=true&ring=C4A986&fire=C4A986&currStreakLabel=C9B393&sideLabels=8FA0AE&dates=8FA0AE&currStreakNum=C9B393&sideNums=8FA0AE"/>
-
-<br/><br/>
-
-<img width="92%" src="https://raw.githubusercontent.com/dummy-pranjal29/dummy-pranjal29/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="assets/ridgeline.svg" alt="A snowy ridgeline drawn from the last year of commits, 439 contributions across 53 weeks, a flag on the busiest week at 53"/>
 
 </div>
-
-<br/>
 
 ---
 
 ### ELSEWHERE
 
 <div align="center">
-<br/>
 
-<a href="https://www.linkedin.com/in/aditya-pranjal29/"><img src="https://img.shields.io/badge/LinkedIn-0E1216?style=flat-square&logo=linkedin&logoColor=8FA0AE&labelColor=0E1216"/></a>
-&nbsp;
-<a href="https://pranjalportfolio-ivory.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E1216?style=flat-square&logo=vercel&logoColor=8FA0AE&labelColor=0E1216"/></a>
-&nbsp;
-<a href="https://x.com/notreallyaps_45"><img src="https://img.shields.io/badge/X-0E1216?style=flat-square&logo=x&logoColor=8FA0AE&labelColor=0E1216"/></a>
-&nbsp;
-<a href="https://www.instagram.com/_pranjal.aditya_"><img src="https://img.shields.io/badge/Instagram-0E1216?style=flat-square&logo=instagram&logoColor=8FA0AE&labelColor=0E1216"/></a>
-&nbsp;
-<a href="mailto:adityapranjal29112001@gmail.com"><img src="https://img.shields.io/badge/Email-0E1216?style=flat-square&logo=gmail&logoColor=8FA0AE&labelColor=0E1216"/></a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0E1216,25:37414A,50:C4A986,75:37414A,100:0E1216&height=2&section=footer"/>
+<a href="https://www.linkedin.com/in/aditya-pranjal29/"><img width="19.6%" src="assets/way-01.svg" alt="LinkedIn"/></a><a href="https://pranjalportfolio-ivory.vercel.app/"><img width="19.6%" src="assets/way-02.svg" alt="Portfolio"/></a><a href="https://x.com/notreallyaps_45"><img width="19.6%" src="assets/way-03.svg" alt="X"/></a><a href="https://www.instagram.com/_pranjal.aditya_"><img width="19.6%" src="assets/way-04.svg" alt="Instagram"/></a><a href="mailto:adityapranjal29112001@gmail.com"><img width="19.6%" src="assets/way-05.svg" alt="Email"/></a>
 
 </div>

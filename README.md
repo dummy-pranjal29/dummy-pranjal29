@@ -25,8 +25,6 @@
 
 ---
 
-### 01  SELECTED WORK
-
 <div align="center">
 
 <img width="100%" src="assets/grill.svg" alt="A cook at a barbecue outside his hut in the snow, the smoke rising into four clouds, one for each project"/>
@@ -42,12 +40,10 @@
 
 ---
 
-### 02  TOOLKIT
-
 <div align="center">
-<br/>
-<img src="https://skillicons.dev/icons?i=go,python,nodejs,java,postgres,redis,kafka,docker,kubernetes,aws,linux,git&theme=dark"/>
-<br/><br/>
+
+<img width="100%" src="assets/arsenal.svg" alt="A crate stencilled ARSENAL in the snow, weapons standing in it tagged Python, FastAPI, PostgreSQL, Neo4j, Docker and LangChain, an AWS shield leaning against it, and a husky sitting with a bone"/>
+
 </div>
 
 ```go
@@ -65,7 +61,7 @@ for range time.Tick(day) {
 
 ---
 
-### 03  ACTIVITY
+### ACTIVITY
 
 <div align="center">
 
@@ -87,7 +83,7 @@ for range time.Tick(day) {
 
 ---
 
-### 04  ELSEWHERE
+### ELSEWHERE
 
 <div align="center">
 <br/>

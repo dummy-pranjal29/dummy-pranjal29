@@ -45,11 +45,9 @@
 
 ---
 
-### ACTIVITY
-
 <div align="center">
 
-<img width="100%" src="assets/trail.svg" alt="A trail of bootprints crossing the snow, one print a month over the last year, deeper and larger where the work was, 439 contributions with the busiest month at 103"/>
+<img width="100%" src="assets/tracks.svg" alt="A trail of bootprints crossing the snow, one print a month over the last year, deeper and larger where the work was, 439 contributions with the busiest month at 103"/>
 
 </div>
 

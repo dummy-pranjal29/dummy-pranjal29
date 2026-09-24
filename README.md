@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img width="100%" src="assets/arsenal.svg" alt="A crate stencilled ARSENAL in the snow, weapons standing in it tagged Python, FastAPI, PostgreSQL, Neo4j, Docker and LangChain, an AWS shield leaning against it, and a husky sitting with a bone"/>
+<img width="100%" src="assets/armoury.svg" alt="A crate stencilled ARSENAL in the snow, weapons standing in it tagged Python, FastAPI, PostgreSQL, Neo4j, Docker and LangChain, an AWS shield leaning against it, and a husky sitting with a bone"/>
 
 </div>
 

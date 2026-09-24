@@ -33,7 +33,10 @@
 
 <br/>
 
-<sub>[SES Intelligence](https://github.com/dummy-pranjal29/self-explaining-software) &nbsp;·&nbsp; [scripts.ai](https://github.com/dummy-pranjal29/scripts.ai) &nbsp;·&nbsp; [CP Sensei](https://github.com/dummy-pranjal29/CP-Sensei) &nbsp;·&nbsp; [Fire and Smoke](https://github.com/dummy-pranjal29/fire-smoke-detection)</sub>
+<a href="https://github.com/dummy-pranjal29/self-explaining-software"><img width="23%" src="assets/stone-01.svg" alt="SES Intelligence"/></a>
+<a href="https://github.com/dummy-pranjal29/scripts.ai"><img width="23%" src="assets/stone-02.svg" alt="scripts.ai"/></a>
+<a href="https://github.com/dummy-pranjal29/CP-Sensei"><img width="23%" src="assets/stone-03.svg" alt="CP Sensei"/></a>
+<a href="https://github.com/dummy-pranjal29/fire-smoke-detection"><img width="23%" src="assets/stone-04.svg" alt="Fire and Smoke"/></a>
 
 </div>
 

@@ -1,62 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0E1216,25:37414A,50:C4A986,75:37414A,100:0E1216&height=2&section=header"/>
+<img width="100%" src="assets/aw-hero.svg" alt="Aditya Pranjal, set over an ASCII self-portrait above the treeline. A lens drifts across it, re-rendering the portrait in binary: surface is UI, underneath is systems. A summit marker pinned to the face reads: current elevation, AI Engineer at Vrio Digital."/>
 
-<br/>
+<br/><br/><br/><br/>
 
-<img width="88%" src="assets/ascii-summit.svg" alt="ASCII self-portrait, somewhere above the treeline"/>
+<img width="100%" src="assets/aw-section-01.svg" alt="01 — Selected work"/>
+<a href="https://github.com/dummy-pranjal29/self-explaining-software"><img width="49%" src="assets/aw-card-01.svg" alt="01 SES Intelligence: explains why your software changed, before anyone asks. Python, Django, React."/></a> <a href="https://github.com/dummy-pranjal29/scripts.ai"><img width="49%" src="assets/aw-card-02.svg" alt="02 scripts.ai: an AI pair that writes, refactors and debugs alongside you. Next.js, Prisma, TypeScript."/></a>
+<a href="https://github.com/dummy-pranjal29/CP-Sensei"><img width="49%" src="assets/aw-card-03.svg" alt="03 CP Sensei: hints, not spoilers. A coach inside LeetCode and Codeforces. Chrome MV3, Claude API, Puppeteer."/></a> <a href="https://github.com/dummy-pranjal29/fire-smoke-detection"><img width="49%" src="assets/aw-card-04.svg" alt="04 Fire and Smoke: spots fire in a live feed, then emails someone who can act. YOLOv8, OpenCV, Python."/></a>
 
-<br/>
+<br/><br/><br/><br/>
+
+<img width="100%" src="assets/aw-section-02.svg" alt="THE TOOLKIT. 15 items equipped. 0 sold. 1 cursed."/>
+<img width="100%" src="assets/aw-toolkit.svg" alt="An RPG inventory of 15 tools. Legendary: Python (main-hand weapon, +99 to everything) and Linux (the ancient tome, btw). Epic: FastAPI, PostgreSQL, Docker, YOLOv8. Rare: Neo4j, LangChain, Redis, Next.js, OpenCV. Common: Node, React, MongoDB. Cursed: AWS, a bottomless coin purse. Gold: minus infinity."/>
+
+<br/><br/><br/><br/>
+
+<img width="100%" src="assets/aw-section-03.svg" alt="trail.log — $ tail -f trail.log, seismic activity measured in commits."/>
+<img width="100%" src="assets/aw-activity.svg" alt="A pixel climber scales twelve towers of digits, one per month, while an agent streams the git work: git commit -m 'feat: 103 commits. SUMMIT.' in May, a flag on the summit, and git log --oneline | wc -l returning 440. September ends with 1 commit, touching grass."/>
+
+<br/><br/><br/><br/>
+
+<img width="100%" src="assets/aw-section-04.svg" alt="ELSEWHERE. A CRT television surfing five channels with static between them. Five channels, zero ads, the remote is right below."/>
+<a href="https://www.linkedin.com/in/aditya-pranjal29/"><img width="20%" src="assets/aw-remote-linkedin.svg" alt="Button 1: LinkedIn"/></a><a href="https://pranjalportfolio-ivory.vercel.app/"><img width="20%" src="assets/aw-remote-portfolio.svg" alt="Button 2: Portfolio"/></a><a href="https://x.com/notreallyaps_45"><img width="20%" src="assets/aw-remote-x.svg" alt="Button 3: X"/></a><a href="https://www.instagram.com/_pranjal.aditya_"><img width="20%" src="assets/aw-remote-instagram.svg" alt="Button 4: Instagram"/></a><a href="mailto:adityapranjal29112001@gmail.com"><img width="20%" src="assets/aw-remote-email.svg" alt="Button 5: Email"/></a>
+
 <br/><br/>
 
-<img width="90%" src="assets/crest.svg" alt="Aditya Pranjal, above the noise"/>
-
-<img width="78%" src="assets/signpost.svg" alt="AI Backend Systems Engineer at Vrio Digital, Bengaluru, India"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1000&color=8FA0AE&center=true&vCenter=true&width=640&lines=if+(it.breaks())+understand(it)%3B;Build+it+quiet.+Let+it+run.;Altitude+over+noise." alt="if (it.breaks()) understand(it);"/>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0E1216,25:37414A,50:C4A986,75:37414A,100:0E1216&height=2&section=header"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="assets/grill.svg" alt="A cook at a barbecue outside his hut in the snow, the smoke rising into four clouds, one for each project"/>
-
-<br/>
-
-<a href="https://github.com/dummy-pranjal29/self-explaining-software"><img width="24.5%" src="assets/marker-01.svg" alt="SES Intelligence"/></a><a href="https://github.com/dummy-pranjal29/scripts.ai"><img width="24.5%" src="assets/marker-02.svg" alt="scripts.ai"/></a><a href="https://github.com/dummy-pranjal29/CP-Sensei"><img width="24.5%" src="assets/marker-03.svg" alt="CP Sensei"/></a><a href="https://github.com/dummy-pranjal29/fire-smoke-detection"><img width="24.5%" src="assets/marker-04.svg" alt="Fire and Smoke"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="assets/outpost.svg" alt="A crate stencilled ARSENAL and TAKEN IN THE FIELD, bedded in the snow with weapons standing in it tagged Python, FastAPI, PostgreSQL, Neo4j, Docker and LangChain, an AWS shield and a Redis dagger beside it, a row of captured standards planted in front reading Node, React, Next, Mongo, Linux, OpenCV and YOLOv8, and a bonfire burning on the snow"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="assets/tracks.svg" alt="A trail of bootprints crossing the snow, one print a month over the last year, deeper and larger where the work was, 439 contributions with the busiest month at 103"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="assets/crossroads.svg" alt="A signpost turning slowly in the snow under a board reading ELSEWHERE, with LinkedIn, Portfolio, X, Instagram and Email staked at the points of a pentagon around it"/>
-
-<sub>[LinkedIn](https://www.linkedin.com/in/aditya-pranjal29/) &nbsp;·&nbsp; [Portfolio](https://pranjalportfolio-ivory.vercel.app/) &nbsp;·&nbsp; [X](https://x.com/notreallyaps_45) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/_pranjal.aditya_) &nbsp;·&nbsp; [Email](mailto:adityapranjal29112001@gmail.com)</sub>
+<img width="100%" src="assets/aw-footer.svg" alt="A laptop's day. The lock screen says 09:00, monday, obviously, and the password hint is coffee. A cursor clicks the green login button, a terminal runs the day: coffee ok, 12 issues open, 11 bugs fixed and 1 became a feature, works on my machine. At 7pm it commits to be continued, the cursor clicks Shut Down, the screen goes dark. The End. Thank you for scrolling till here."/>
 
 </div>
